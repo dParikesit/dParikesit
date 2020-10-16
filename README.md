@@ -12,5 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about real world social problem
 - 📫 How to reach me: 
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I successfully lost 20kg in 6 months
+- 😮 Fun Fact: I lost 20kg in 6 months
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) /dimas-parikesit](https://www.linkedin.com/in/dimas-parikesit)
+&nbsp;
 - 
