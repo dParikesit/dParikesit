@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) /dimas-parikesit](https://www.linkedin.com/in/dimas-parikesit)
 &nbsp;
 -->
-Hi, my name is Dimas Shidqi Parikesit. I'm an undergraduate student at Institut Teknologi Bandung. I'm still fairly new at programming, but I have a clear goal to become a great software engineer. I'm still improving on my web development capabilities, and want to try my hands on dart and flutter.
+Hi, my name is Dimas Shidqi Parikesit. I'm an undergraduate student at Institut Teknologi Bandung. I'm still learning on how to become a great software engineer. I'm focusing on web development using Javascript stack and want to try myself at mobile programming using dart and flutter.
 
 ### My Skill
 <p>
