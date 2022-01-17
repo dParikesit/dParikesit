@@ -28,5 +28,5 @@ Hi, my name is Dimas Shidqi Parikesit. I'm an undergraduate student at Institut 
 ### Github Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=dParikesit&amp;show_icons=true&amp;count_private=true&amp;theme=tokyonight" alt="GitHub Stats"></p>
 
-### Top Languages
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dParikesit&amp;layout=compact" alt="Top Languages"></p>
+<!-- ### Top Languages
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dParikesit&amp;layout=compact" alt="Top Languages"></p> -->
