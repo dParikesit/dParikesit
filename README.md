@@ -16,13 +16,15 @@ Here are some ideas to get you started:
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) /dimas-parikesit](https://www.linkedin.com/in/dimas-parikesit)
 &nbsp;
 -->
-Hi, my name is Dimas Shidqi Parikesit. I'm an undergraduate student at Institut Teknologi Bandung. I'm still learning on how to become a great software engineer. I'm focusing on web development using Javascript stack and want to try myself at mobile programming using dart and flutter.
+A sophomore of Information Technology from Institut Teknologi Bandung that is really excited about server side of the internet. Creating, deploying, and maintaining efficient and reliable code feels really fun. I have also contributed to an academical research, organizing events, creating websites, and teach my peers and underclassmen.
 
 ### My Skill
 <p>
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FFFF00?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-347AB4?style=flat-square&logo=python&logoColor=white" />
+  <img alt="golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />  
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=whitee" />  
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />  
 </p>
 
 ### Github Stats
