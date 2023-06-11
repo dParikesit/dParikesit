@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) /dimas-parikesit](https://www.linkedin.com/in/dimas-parikesit)
 &nbsp;
 -->
-A sophomore of Information Technology from Institut Teknologi Bandung that is really excited about systems in general. Creating, deploying, and maintaining efficient and reliable code feels really fun. I have also contributed to an academical research, organizing events, creating websites, and teach my peers and underclassmen.
+A final year undergrad of Information Technology from Institut Teknologi Bandung that is really excited about systems in general. Creating, deploying, and maintaining efficient and reliable code feels really fun. I have also contributed to an academical research, organizing events, creating websites, and teach my peers and underclassmen.
 
 > I'm currently doing research about silent semantic failures in production-grade software
 
